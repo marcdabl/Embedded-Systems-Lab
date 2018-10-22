@@ -32,5 +32,5 @@ while (1)
     fspeed = min(15*floor(time),255);
 end
 
-%the writeDigitalPin function does not work enough quickly to achieve the
+%Conclusion: the writeDigitalPin function does not work enough quickly to achieve the
 %results required in the attachment. 
